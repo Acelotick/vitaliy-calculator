@@ -1,0 +1,17 @@
+{
+  "name": "vitaliy-calculator",
+  "version": "1.0.0",
+  "description": "Простой консольный калькулятор",
+  "main": "index.js",
+  "scripts": {
+    "start": "call start.bat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acelotick"
+  },
+  "author": "Vitaliy Karpov",
+  "license": "UNLICENSED",
+  "dependencies": {
+  }
+}
